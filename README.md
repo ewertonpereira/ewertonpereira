@@ -7,9 +7,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ewertonpereira&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
-<!-- [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ewertonpereira&bg_color=0d1117&color=00bfbf&line=00bfbf&point=42ffe0&area=true&area_color=8affeb&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ewertonpereira&bg_color=0d1117&color=00bfbf&line=00bfbf&point=42ffe0&area=true&area_color=8affeb&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ewertonpereira&bg_color=0d1117&color=00bfbf&line=00bfbf&point=42ffe0&area=true&area_color=8affeb&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 <div align="center">  
